@@ -42,7 +42,7 @@ body {
 	background-color: #D44638;
 }
 
-.drive {
+.whatsapp {
 	height: 250px;
 	width: 250px;
 	margin-top: 20px;
@@ -66,6 +66,16 @@ body {
 	background-color: #E50914;
 }
 
+.changelog {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	left: 10px;
+	font-size: 18px;
+	color: #949494;
+	font-family: Courier New;
+	text-decoration: none;
+}
 
 .nipz58 {
 	text-align: right;
@@ -76,4 +86,12 @@ body {
 	color: #949494;
 	font-family: Courier New;
 	text-decoration: none;
+}
+
+.changelogs {
+	color: white;
+	font-size: 18px;
+	font-family: Courier New;
+	margin-left: 10px;
+	list-style: square;
 }
