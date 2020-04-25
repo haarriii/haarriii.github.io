@@ -42,7 +42,7 @@ body {
 	background-color: #D44638;
 }
 
-.whatsapp {
+.drive {
 	height: 250px;
 	width: 250px;
 	margin-top: 20px;
@@ -55,7 +55,7 @@ body {
 	width: 250px;
 	margin-top: -790px;
 	margin-left: 540px;
-	background-color: #eaff00;
+	background-color: #6441a5;
 }
 
 .netflix {
@@ -66,32 +66,4 @@ body {
 	background-color: #E50914;
 }
 
-.changelog {
-	text-align: left;
-	position: fixed;
-	bottom: 0;
-	left: 10px;
-	font-size: 18px;
-	color: #949494;
-	font-family: Courier New;
-	text-decoration: none;
-}
 
-.nipz58 {
-	text-align: right;
-	position: fixed;
-	bottom: 0;
-	right: 10px;
-	font-size: 18px;
-	color: #949494;
-	font-family: Courier New;
-	text-decoration: none;
-}
-
-.changelogs {
-	color: white;
-	font-size: 18px;
-	font-family: Courier New;
-	margin-left: 10px;
-	list-style: square;
-}
