@@ -18,12 +18,12 @@ body {
 	background-color: #1DA1F2;
 }
 
-.amazon {
+.twitch {
 	height: 250px;
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #ebebeb;
+	background-color: #6441A4;
 }
 
 .reddit {
@@ -50,12 +50,12 @@ body {
 	background-color: #28e050;
 }
 
-.twitch {
+.amazon {
 	height: 250px;
 	width: 250px;
 	margin-top: -790px;
 	margin-left: 540px;
-	background-color: #6441A4;
+	background-color: #ebebeb;
 }
 
 .netflix {
@@ -66,3 +66,14 @@ body {
 	background-color: #E50914;
 }
 
+
+.nipz58 {
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	right: 10px;
+	font-size: 18px;
+	color: #949494;
+	font-family: Courier New;
+	text-decoration: none;
+}
